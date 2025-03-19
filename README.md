@@ -45,12 +45,8 @@ Technologies I have tried:
         <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=github"/></td>
-    </tr>
-    <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=arduino,nginx,postman,pycharm,rider"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=arduino,nginx,postman,github,pycharm,rider"/></td>
     </tr>
     <tr>
           <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Systems:</td>
