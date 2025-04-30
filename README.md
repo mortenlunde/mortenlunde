@@ -11,10 +11,10 @@ Welcome to my GitHub profile! I'm a developer passionate about building efficien
 ## 📊 My stats
 
 <a href="https://github.com/mortenlunde/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-one-kappa-52.vercel.app/api?username=mortenlunde&theme=dracula" />
+  <img height=200 align="center" src="https://github-readme-stats-f3ry.vercel.app/api?username=mortenlunde&theme=dracula" />
 </a>
 <a href="https://github.com/mortenlunde/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats-one-kappa-52.vercel.app/api/top-langs?username=mortenlunde&layout=compact&langs_count=8&card_width=320&theme=dracula" />
+  <img height=200 align="center" src="https://github-readme-stats-f3ry.vercel.app/api/top-langs?username=mortenlunde&layout=compact&langs_count=8&card_width=320&theme=dracula" />
 </a>
 
 </br>
