@@ -16,7 +16,6 @@ Welcome to my GitHub profile! I'm a developer passionate about building efficien
 <a href="https://github.com/mortenlunde/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mortenlunde&layout=compact&langs_count=8&card_width=320&theme=dracula" />
 </a>
-https://github-readme-stats-one-kappa-52.vercel.app/
 
 </br>
 
